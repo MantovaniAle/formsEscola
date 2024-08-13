@@ -8,7 +8,7 @@ input, select, button {
     size: 10px;
   }
 
-  p{
+p{
     margin-top: 15px;
     margin-bottom: 15px;
     margin-left: 10px;
@@ -16,3 +16,15 @@ input, select, button {
     font-size: medium;
     size: 10px;
   }
+
+textarea{
+    background-color: #3CBC8D;
+    color: white;
+    border-radius: 3px;
+    margin-left: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    size: 10px;
+    height: 200px;
+    width: 700px;
+}
