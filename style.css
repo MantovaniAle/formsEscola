@@ -29,7 +29,7 @@ textarea{
     width: 700px;
 }
 
-body{
+form{
     display: flex;
     flex-direction: column;
     align-items: center;
