@@ -2,3 +2,9 @@ input {
     background-color: #3CBC8D;
     color: white;
   }
+
+  p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+  }
