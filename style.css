@@ -1,4 +1,4 @@
-input {
+input, select, button {
     background-color: #3CBC8D;
     color: white;
     border-radius: 3px;
